@@ -258,5 +258,5 @@ const styles = StyleSheet.create({
     color: "#FF99CC",
   },
 });
-
+// không có chi mô 
 export default Chatpage;

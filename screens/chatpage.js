@@ -259,4 +259,5 @@ const styles = StyleSheet.create({
   },
 });
 // không có chi mô 
+// chó đẻ
 export default Chatpage;
